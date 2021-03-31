@@ -8,7 +8,7 @@
   },
   "commercial": {
     "id": 1,
-    "name": "commercial Banking",
+    "name": "Commercial Banking",
     "total_exposure": 50000,
     "no_of_facilities": 40,
     "no_of_customers": 5000
@@ -33,12 +33,5 @@
     "total_exposure": 60000,
     "no_of_facilities": 50,
     "no_of_customers": 15000
-  },
-  "private": {
-    "id": 1,
-    "name": "Private Banking",
-    "total_exposure": 70000,
-    "no_of_facilities": 70,
-    "no_of_customers": 5000
   }
 }

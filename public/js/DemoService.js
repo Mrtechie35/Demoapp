@@ -8,11 +8,11 @@ const fetchUsers = async () => {
            throw new Error(res.status);
        }
 	   const sample = await res.json();
-	   console.log(sample);
+	  
 	//    /document.getElementById("myText").value =new Date();
 	   $('table').bootstrapTable({ data: sample.data });
-	   $('table').DataTable();
-$('.dataTables_length').addClass('bs-select');
+	 //  $('table').DataTable();
+     $('.dataTables_length').addClass('bs-select');
 	
        }
        // catch block for network errors
