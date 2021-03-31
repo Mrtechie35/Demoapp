@@ -1,0 +1,44 @@
+{
+  "retail": {
+    "id": 1,
+    "name": "Retail Banking",
+    "total_exposure": 100000,
+    "no_of_facilities": 120,
+    "no_of_customers": 10000
+  },
+  "commercial": {
+    "id": 1,
+    "name": "commercial Banking",
+    "total_exposure": 50000,
+    "no_of_facilities": 40,
+    "no_of_customers": 5000
+  },
+  "investment": {
+    "id": 1,
+    "name": "Investment Banking",
+    "total_exposure": 30000,
+    "no_of_facilities": 20,
+    "no_of_customers": 10000
+  },
+  "insurance": {
+    "id": 1,
+    "name": "Insurance Banking",
+    "total_exposure": 500000,
+    "no_of_facilities": 160,
+    "no_of_customers": 25000
+  },
+  "global": {
+    "id": 1,
+    "name": "Global Banking",
+    "total_exposure": 60000,
+    "no_of_facilities": 50,
+    "no_of_customers": 15000
+  },
+  "private": {
+    "id": 1,
+    "name": "Private Banking",
+    "total_exposure": 70000,
+    "no_of_facilities": 70,
+    "no_of_customers": 5000
+  }
+}

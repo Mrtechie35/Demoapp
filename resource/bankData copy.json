@@ -1,0 +1,47 @@
+{
+  "sectors": [{
+    "retail": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    },
+    "commercial": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    },
+    "investment": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    },
+    "insurance": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    },
+    "global": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    },
+    "private": {
+      "id": 1,
+      "name": "Retail Banking",
+      "total_exposure": 100,
+      "no_of_facilities": 0,
+      "no_of_customers": 0
+    }
+}
+  ]
+}
